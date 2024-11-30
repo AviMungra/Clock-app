@@ -3,7 +3,7 @@ It is a React app which works as a clock ⏲ showing the current time. ⏳
 
 It is made using **React.js**. It uses the concept of **React Hooks**. ⚓
 
-It uses **useState() Hook** and **setInterval() function** which calls a function for updating the state (the currentTime varible) every second and thus re-rendering the time in the app every second. This creates an effect of a clock.
+It uses **useState() Hook** and **setInterval() function** which calls a function for updating the state (the currentTime varible) every second and thus changing the time in the app every second. This creates an effect of a clock.
 
 ### How to run the project
 -	First open the terminal and change the directory to the current working directory in which we have our project using **cd command**.
